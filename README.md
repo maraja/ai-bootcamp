@@ -4,41 +4,31 @@
 
 <blockquote><i>"I visualize a time when we will be to robots what dogs are to humans, and I’m rooting for the machines."</i> <strong>– Claude Shannon</blockquote>
 
-This is the ORSIE Artificial Intelligence developed by Amit Maraj. 
+This is the ORSIE Artificial Intelligence bootcamp developed by Amit Maraj & Connlaoi Smith. 
 
-All materials used within this bootcamp is credited to their respective authors. 
+All materials used within this bootcamp are credited to their respective authors.
 
 
 ### Outline:
 
-[1. Python Implementation and Basics](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2001/Lesson1-Python-Implementation-and-Basics.pdf)
+[1. Machine Learning Introduction](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2001/Lesson1-Classification-and-Regression-Intro.ipynb)
 
-[2. IPython and Numpy](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2002/Lesson2-IPython-and-NumPy.pdf)
+[2. Classification and Regression](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2002/Lesson2-IPython-and-NumPy.ipynb)
 
-[3. Creating and Demonstrating and Numpy class](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2003/Lesson3-Creating_and_Demonstrating_a_NumPy_Class.pdf)
+[3. Polynomial Regression](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2003/Lesson3-Polynomial-Regression.ipynb)
 
-[4. Datasets and DataFrames](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2004/Lesson4-Datasets-and-Dataframes.ipynb)
+[4. Practical Regression](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2004/Lesson4-Practically-Applying-Regression.ipynb)
 
-[5. Data Pre-processing](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2005/Lesson5-Pre-Processing-Data.ipynb)
+[5a. Gaussian Naive Bayes](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2005/Lesson5a-GNB-and-Pre-Processing.ipynb)
 
-[6. Machine Learning Introduction](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2006/Lesson6-Machine-Learning-Intro.ipynb)
+[5b. Gaussian Naive Bayes](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2005/Lesson5b-GNB-and-Pre-Processing-Continued.ipynb)
 
-[7. Classification and Regression](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2007/Lesson7-Regression-Classification-Intro.ipynb)
+[6. Decision Trees](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2006/Lesson6-Decision-Trees.ipynb)
 
-[8. Polynomial Regression](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2008/Lesson8-Polynomial-Regression.ipynb)
+[7. Random Forest](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2007/Lesson7-Random-Forest.ipynb)
 
-[9. Practical Regression](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2009/Lesson9-Practically-Applying-Regression.ipynb)
+[8. Neural Networks Introduction](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2008/Lesson8-Theory-of-Neural-Networks.ipynb)
 
-[10a. Gaussian Naive Bayes](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2010/Lesson10a-GNB-and-Pre-Processing.ipynb)
+[9. Neural Networks Theory](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2009/Lesson9-Neural-Network-from-Scratch.ipynb)
 
-[10b. Gaussian Naive Bayes](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2010/Lesson10b-GNB-and-Pre-Processing-Continued.ipynb)
-
-[11. Decision Trees](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2011/Lesson11-Decision-Trees.ipynb)
-
-[12. Random Forest](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2012/Lesson12-Random-Forest.ipynb)
-
-[13. Neural Networks Introduction](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2013/Lesson%2013%20-%20Theory%20of%20Neural%20Networks.ipynb)
-
-[14. Neural Networks Theory](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2014/Lesson%2014%20-%20Neural%20Network%20from%20scratch.ipynb)
-
-[15. Neural Networks Implementation](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2015/Lesson%2015%20-%20Neural%20Network%20from%20scratch.ipynb)
+[10. Neural Networks Implementation](https://github.com/maraja/ai-bootcamp/blob/master/Lesson%2010/Lesson10-Neural-Network-from-Scratch.ipynb)
